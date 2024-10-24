@@ -9,6 +9,7 @@ A Flutter-based **Movie Discovery App** that allows users to search for movies, 
 -   **Movie Details**: View detailed information about a movie, including the release date, cast, plot, and more.
 -   **Save Favorites**: Users can add movies to their favorites list for easy access later.
 -   **Bloc State Management**: Clean and scalable code structure using Bloc cubit.
+-   **Theme**: User can switch between light and dark theme for better accessibility.
 
 ## Technologies Used
 
